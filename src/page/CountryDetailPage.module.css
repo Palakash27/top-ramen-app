@@ -1,0 +1,47 @@
+.country-heading {
+  color: #333;
+}
+
+.ramen-list-item {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+small {
+  color: #b1b1b1;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.variety {
+  font-size: 17px;
+  color: #333;
+}
+
+.rating-text {
+  background: rgb(153, 153, 153);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 2px 5px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.wrapper {
+  margin: 0 10px;
+}
+
+.item {
+  margin-left: 5px;
+}
+
+.brand-text {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 3px 8px;
+}
+.brand-text:focus {
+  outline: 1px solid cadetblue;
+}
