@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import CountryDetailPage from "./page/CountryDetailPage";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./page/Home";
 import Header from "./components/Header/Header";
 
